@@ -13,6 +13,8 @@ CMainApp::CMainApp()
 	Safe_AddRef(m_pGameInstance); Safe_AddRef(m_pGameInstance);
 	Safe_AddRef(m_pGameInstance);
 	Safe_AddRef(m_pGameInstance);
+	Safe_AddRef(m_pGameInstance); Safe_AddRef(m_pGameInstance);
+	Safe_AddRef(m_pGameInstance);
 }
 
 HRESULT CMainApp::Initialize()
