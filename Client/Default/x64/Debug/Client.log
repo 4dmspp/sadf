@@ -1,0 +1,52 @@
+﻿  stdafx.cpp
+  BackGround.cpp
+C:\Users\zzjkg\Desktop\17일차 - 카메라 이동\EngineSDK\Inc\GameObject.h(13,2): warning C5208: typedef 이름에 사용되는 명명되지 않은 클래스가 비정적 데이터 멤버, 멤버 열거형 또는 멤버 클래스 이외의 멤버를 선언할 수 없습니다.
+  (소스 파일 '/private/BackGround.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzjkg\Desktop\17일차 - 카메라 이동\Client\Public\BackGround.h(16,17): warning C5208: typedef 이름에 사용되는 명명되지 않은 클래스가 비정적 데이터 멤버, 멤버 열거형 또는 멤버 클래스 이외의 멤버를 선언할 수 없습니다.
+  (소스 파일 '/private/BackGround.cpp'을(를) 컴파일하는 중)
+  
+  Camera.cpp
+C:\Users\zzjkg\Desktop\17일차 - 카메라 이동\EngineSDK\Inc\GameObject.h(13,2): warning C5208: typedef 이름에 사용되는 명명되지 않은 클래스가 비정적 데이터 멤버, 멤버 열거형 또는 멤버 클래스 이외의 멤버를 선언할 수 없습니다.
+  (소스 파일 '/Private/Camera.cpp'을(를) 컴파일하는 중)
+  
+  Level_GamePlay.cpp
+C:\Users\zzjkg\Desktop\17일차 - 카메라 이동\EngineSDK\Inc\GameObject.h(13,2): warning C5208: typedef 이름에 사용되는 명명되지 않은 클래스가 비정적 데이터 멤버, 멤버 열거형 또는 멤버 클래스 이외의 멤버를 선언할 수 없습니다.
+  (소스 파일 '/Private/Level_GamePlay.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzjkg\Desktop\17일차 - 카메라 이동\Client\Public\Monster.h(18,2): warning C5208: typedef 이름에 사용되는 명명되지 않은 클래스가 비정적 데이터 멤버, 멤버 열거형 또는 멤버 클래스 이외의 멤버를 선언할 수 없습니다.
+  (소스 파일 '/Private/Level_GamePlay.cpp'을(를) 컴파일하는 중)
+  
+  Level_Loading.cpp
+  Level_Logo.cpp
+C:\Users\zzjkg\Desktop\17일차 - 카메라 이동\EngineSDK\Inc\GameObject.h(13,2): warning C5208: typedef 이름에 사용되는 명명되지 않은 클래스가 비정적 데이터 멤버, 멤버 열거형 또는 멤버 클래스 이외의 멤버를 선언할 수 없습니다.
+  (소스 파일 '/private/Level_Logo.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzjkg\Desktop\17일차 - 카메라 이동\Client\Public\BackGround.h(16,17): warning C5208: typedef 이름에 사용되는 명명되지 않은 클래스가 비정적 데이터 멤버, 멤버 열거형 또는 멤버 클래스 이외의 멤버를 선언할 수 없습니다.
+  (소스 파일 '/private/Level_Logo.cpp'을(를) 컴파일하는 중)
+  
+  Loader.cpp
+C:\Users\zzjkg\Desktop\17일차 - 카메라 이동\EngineSDK\Inc\GameObject.h(13,2): warning C5208: typedef 이름에 사용되는 명명되지 않은 클래스가 비정적 데이터 멤버, 멤버 열거형 또는 멤버 클래스 이외의 멤버를 선언할 수 없습니다.
+  (소스 파일 '/private/Loader.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzjkg\Desktop\17일차 - 카메라 이동\Client\Public\BackGround.h(16,17): warning C5208: typedef 이름에 사용되는 명명되지 않은 클래스가 비정적 데이터 멤버, 멤버 열거형 또는 멤버 클래스 이외의 멤버를 선언할 수 없습니다.
+  (소스 파일 '/private/Loader.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzjkg\Desktop\17일차 - 카메라 이동\Client\Public\Monster.h(18,2): warning C5208: typedef 이름에 사용되는 명명되지 않은 클래스가 비정적 데이터 멤버, 멤버 열거형 또는 멤버 클래스 이외의 멤버를 선언할 수 없습니다.
+  (소스 파일 '/private/Loader.cpp'을(를) 컴파일하는 중)
+  
+  MainApp.cpp
+  Monster.cpp
+C:\Users\zzjkg\Desktop\17일차 - 카메라 이동\EngineSDK\Inc\GameObject.h(13,2): warning C5208: typedef 이름에 사용되는 명명되지 않은 클래스가 비정적 데이터 멤버, 멤버 열거형 또는 멤버 클래스 이외의 멤버를 선언할 수 없습니다.
+  (소스 파일 '/Private/Monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzjkg\Desktop\17일차 - 카메라 이동\Client\Public\Monster.h(18,2): warning C5208: typedef 이름에 사용되는 명명되지 않은 클래스가 비정적 데이터 멤버, 멤버 열거형 또는 멤버 클래스 이외의 멤버를 선언할 수 없습니다.
+  (소스 파일 '/Private/Monster.cpp'을(를) 컴파일하는 중)
+  
+  Player.cpp
+C:\Users\zzjkg\Desktop\17일차 - 카메라 이동\EngineSDK\Inc\GameObject.h(13,2): warning C5208: typedef 이름에 사용되는 명명되지 않은 클래스가 비정적 데이터 멤버, 멤버 열거형 또는 멤버 클래스 이외의 멤버를 선언할 수 없습니다.
+  (소스 파일 '/Private/Player.cpp'을(를) 컴파일하는 중)
+  
+  Client.cpp
+  코드를 생성하고 있습니다...
+  Client.vcxproj -> C:\Users\zzjkg\Desktop\17일차 - 카메라 이동\Client\Bin\Client.exe
